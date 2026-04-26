@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  25 APR 2026 02:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  25 APR 2026 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -546,8 +546,8 @@ Package hyperref Info: Link coloring OFF on input line 57.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-<images/TheSeal_Reg_0921.png, id=136, 50.57382pt x 51.93932pt>
-<images/TheShield.png, id=138, 447.6725pt x 578.16pt>
+<images/TheSeal_Reg_0921.png, id=209, 50.57382pt x 51.93932pt>
+<images/TheShield.png, id=211, 447.6725pt x 578.16pt>
  [1{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] (./main.toc
@@ -562,206 +562,255 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [3] [4{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [5] [6] [7] [8] [9] [10] [11] [12]
-<images/deliverables/deliverable-1/Deliverable 1_1.png, id=279, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_2.png, id=280, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_3.png, id=281, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_4.png, id=282, 1228.59pt x 1589.94pt>
- [13]
-Overfull \vbox (11.62376pt too high) has occurred while \output is active []
-
- [14]
-<images/deliverables/deliverable-1/Deliverable 1_5.png, id=297, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_6.png, id=298, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_7.png, id=299, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-1/Deliverable 1_8.png, id=300, 1228.59pt x 1589.94pt>
- [15
-
-]
-<images/deliverables/deliverable-2/Deliverable 2_1.png, id=307, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-2/Deliverable 2_2.png, id=308, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-2/Deliverable 2_3.png, id=309, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-2/Deliverable 2_4.png, id=310, 1228.59pt x 1589.94pt>
- [16
-
-]
-<images/deliverables/deliverable-2/Deliverable 2_5.png, id=317, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-2/Deliverable 2_6.png, id=318, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-2/Deliverable 2_7.png, id=319, 1228.59pt x 1589.94pt>
+ [3] [4{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
+<images/deliverables/deliverable-1/Deliverable 1_1.png, id=392, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_2.png, id=393, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_3.png, id=394, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_4.png, id=395, 1228.59pt x 1589.94pt>
+ [16]
+<images/deliverables/deliverable-1/Deliverable 1_5.png, id=403, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_6.png, id=404, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_7.png, id=405, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-1/Deliverable 1_8.png, id=406, 1228.59pt x 1589.94pt>
  [17
 
 ]
-<images/deliverables/deliverable-3/Deliverable 3_1.png, id=326, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_2.png, id=327, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_3.png, id=328, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_4.png, id=329, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_1.png, id=413, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_2.png, id=414, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_3.png, id=415, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_4.png, id=416, 1228.59pt x 1589.94pt>
  [18
 
 ]
-<images/deliverables/deliverable-3/Deliverable 3_5.png, id=336, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_6.png, id=337, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_7.png, id=338, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_8.png, id=339, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_5.png, id=423, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_6.png, id=424, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-2/Deliverable 2_7.png, id=425, 1228.59pt x 1589.94pt>
  [19
 
 ]
-<images/deliverables/deliverable-3/Deliverable 3_9.png, id=347, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_10.png, id=348, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_11.png, id=349, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-3/Deliverable 3_12.png, id=350, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_1.png, id=433, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_2.png, id=434, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_3.png, id=435, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_4.png, id=436, 1228.59pt x 1589.94pt>
  [20
 
 ]
-<images/deliverables/deliverable-3/Deliverable 3_13.png, id=357, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_5.png, id=443, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_6.png, id=444, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_7.png, id=445, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_8.png, id=446, 1228.59pt x 1589.94pt>
  [21
 
 ]
-<images/deliverables/deliverable-4/Deliverable 4_1.png, id=364, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_2.png, id=365, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_3.png, id=366, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_4.png, id=367, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_9.png, id=454, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_10.png, id=455, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_11.png, id=456, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_12.png, id=457, 1228.59pt x 1589.94pt>
  [22
 
 ]
-<images/deliverables/deliverable-4/Deliverable 4_5.png, id=374, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_6.png, id=375, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_7.png, id=376, 1228.59pt x 1589.94pt>
-<images/deliverables/deliverable-4/Deliverable 4_8.png, id=377, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-3/Deliverable 3_13.png, id=464, 1228.59pt x 1589.94pt>
  [23
 
-] [24
-
-] [25] [26] [27]
-<images/pralumex-website/old/1.png, id=407, 2742.245pt x 2055.68pt>
-<images/pralumex-website/old/2.png, id=408, 2742.245pt x 2055.68pt>
- [28]
-<images/pralumex-website/old/3.png, id=415, 2742.245pt x 2055.68pt>
-<images/pralumex-website/old/4.png, id=416, 2742.245pt x 2055.68pt>
- [29
+]
+<images/deliverables/deliverable-4/Deliverable 4_1.png, id=471, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_2.png, id=472, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_3.png, id=473, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_4.png, id=474, 1228.59pt x 1589.94pt>
+ [24
 
 ]
-<images/pralumex-website/old/5.png, id=423, 2742.245pt x 2055.68pt>
- [30
+<images/deliverables/deliverable-4/Deliverable 4_5.png, id=481, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_6.png, id=482, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_7.png, id=483, 1228.59pt x 1589.94pt>
+<images/deliverables/deliverable-4/Deliverable 4_8.png, id=484, 1228.59pt x 1589.94pt>
+ [25
 
 ]
-<images/pralumex-website/current/1.png, id=431, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/2.png, id=432, 2742.245pt x 2055.68pt>
- [31
+<images/books/how to lie with statistics.jpeg, id=492, 1376.0208pt x 1032.0156pt>
+<images/books/the anxious generation.jpeg, id=493, 1376.0208pt x 1032.0156pt>
+ [26
 
 ]
-<images/pralumex-website/current/3.png, id=441, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/4.png, id=442, 2742.245pt x 2055.68pt>
+<images/work-revisions/technical-description.png, id=503, 265.99374pt x 300.12125pt>
+<images/work-revisions/sioet.png, id=505, 269.005pt x 395.4775pt>
+<images/work-revisions/incident-report.png, id=507, 270.00874pt x 427.5975pt>
+ [27] [28]
+Overfull \hbox (1.03586pt too wide) in paragraph at lines 418--418
+[]|\OT1/cmr/m/n/12 Document| 
+ []
+
+[29] [30]
+<images/pralumex-website/old/1.png, id=543, 2742.245pt x 2055.68pt>
+<images/pralumex-website/old/2.png, id=544, 2742.245pt x 2055.68pt>
+ [31]
+<images/pralumex-website/old/3.png, id=552, 2742.245pt x 2055.68pt>
+<images/pralumex-website/old/4.png, id=553, 2742.245pt x 2055.68pt>
  [32
 
 ]
-<images/pralumex-website/current/5.png, id=449, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/6.png, id=450, 2742.245pt x 2055.68pt>
+<images/pralumex-website/old/5.png, id=560, 2742.245pt x 2055.68pt>
  [33
 
 ]
-<images/pralumex-website/current/7.png, id=457, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/8.png, id=458, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/1.png, id=568, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/2.png, id=569, 2742.245pt x 2055.68pt>
  [34
 
 ]
-<images/pralumex-website/current/9.png, id=465, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/10.png, id=466, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/3.png, id=577, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/4.png, id=578, 2742.245pt x 2055.68pt>
  [35
 
 ]
-<images/pralumex-website/current/11.png, id=473, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/12.png, id=474, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/5.png, id=585, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/6.png, id=586, 2742.245pt x 2055.68pt>
  [36
 
 ]
-<images/pralumex-website/current/13.png, id=481, 2742.245pt x 2055.68pt>
-<images/pralumex-website/current/14.png, id=482, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/7.png, id=593, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/8.png, id=594, 2742.245pt x 2055.68pt>
  [37
 
 ]
-<images/pralumex-website/current/15.png, id=490, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/9.png, id=602, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/10.png, id=603, 2742.245pt x 2055.68pt>
  [38
 
 ]
-<images/pralumex-website/beta/1.png, id=498, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/2.png, id=499, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/11.png, id=610, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/12.png, id=611, 2742.245pt x 2055.68pt>
  [39
 
 ]
-<images/pralumex-website/beta/3.png, id=506, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/4.png, id=507, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/13.png, id=618, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/14.png, id=619, 2742.245pt x 2055.68pt>
  [40
 
 ]
-<images/pralumex-website/beta/5.png, id=514, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/6.png, id=515, 2742.245pt x 2055.68pt>
+<images/pralumex-website/current/15.png, id=626, 2742.245pt x 2055.68pt>
  [41
 
 ]
-<images/pralumex-website/beta/7.png, id=522, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/8.png, id=523, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/1.png, id=634, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/2.png, id=635, 2742.245pt x 2055.68pt>
  [42
 
 ]
-<images/pralumex-website/beta/9.png, id=530, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/10.png, id=531, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/3.png, id=642, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/4.png, id=643, 2742.245pt x 2055.68pt>
  [43
 
 ]
-<images/pralumex-website/beta/11.png, id=539, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/12.png, id=540, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/5.png, id=651, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/6.png, id=652, 2742.245pt x 2055.68pt>
  [44
 
 ]
-<images/pralumex-website/beta/13.png, id=547, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/14.png, id=548, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/7.png, id=659, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/8.png, id=660, 2742.245pt x 2055.68pt>
  [45
 
 ]
-<images/pralumex-website/beta/15.png, id=555, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/16.png, id=556, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/9.png, id=667, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/10.png, id=668, 2742.245pt x 2055.68pt>
  [46
 
 ]
-<images/pralumex-website/beta/17.png, id=563, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/18.png, id=564, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/11.png, id=675, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/12.png, id=676, 2742.245pt x 2055.68pt>
  [47
 
 ]
-<images/pralumex-website/beta/19.png, id=571, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/20.png, id=572, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/13.png, id=683, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/14.png, id=684, 2742.245pt x 2055.68pt>
  [48
 
 ]
-<images/pralumex-website/beta/21.png, id=579, 2742.245pt x 2055.68pt>
-<images/pralumex-website/beta/22.png, id=580, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/15.png, id=691, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/16.png, id=692, 2742.245pt x 2055.68pt>
  [49
 
-] 
-AED: lastpage setting LastPage
-[50
+]
+<images/pralumex-website/beta/17.png, id=700, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/18.png, id=701, 2742.245pt x 2055.68pt>
+ [50
 
-] (./main.aux)
+]
+<images/pralumex-website/beta/19.png, id=708, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/20.png, id=709, 2742.245pt x 2055.68pt>
+ [51
+
+]
+<images/pralumex-website/beta/21.png, id=716, 2742.245pt x 2055.68pt>
+<images/pralumex-website/beta/22.png, id=717, 2742.245pt x 2055.68pt>
+ [52
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
+[]|[]\OT1/cmr/m/n/12 Mantine UI crash course with
+ []
+
+[53
+
+]
+Overfull \hbox (9.42447pt too wide) in paragraph at lines 565--565
+[]\OT1/cmr/bx/n/14.4 Appendix G: Time Man-age-ment & Pro-duc-tiv-ity Habits Sources 
+ []
+
+[54]
+Overfull \hbox (9.15102pt too wide) in paragraph at lines 584--584
+[]\OT1/cmr/bx/n/14.4 Appendix H: Fol-low-ing Soft-ware & Tech-nol-ogy Con-tent Sources 
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 606--606
+[]|[]\OT1/cmr/m/n/12 When open-sourcing your code goes
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 610--610
+[]|[]\OT1/cmr/m/n/12 How to burn \TS1/cmr/m/n/12 $\OT1/cmr/m/n/12 30m on a JavaScript
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 616--616
+[]|[]\OT1/cmr/m/n/12 Tragic mis-take... An-thropic leaks
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 621--621
+[]|[]\OT1/cmr/m/n/12 Millions of Word-Press sites just got
+ []
+
+[55]
+Underfull \hbox (badness 1325) in paragraph at lines 633--633
+[]|[]\OT1/cmr/m/n/12 Your Fa-vorite YouTube Chan-nel is
+ []
+
+[56] 
+AED: lastpage setting LastPage
+[57] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D4F05B3ED38451F3FD34D783EE268DAD;6908.
+(rerunfilecheck)             Checksum: 44EA1CE5CC83CD90B864A96F2D0A3605;10482.
  ) 
 Here is how much of TeX's memory you used:
- 14228 strings out of 475567
- 241878 string characters out of 5777888
- 1939187 words of memory out of 5000000
- 36033 multiletter control sequences out of 15000+600000
- 568922 words of font info for 77 fonts, out of 8000000 for 9000
+ 14318 strings out of 475567
+ 244274 string characters out of 5777888
+ 1956187 words of memory out of 5000000
+ 36088 multiletter control sequences out of 15000+600000
+ 569281 words of font info for 78 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,15n,79p,1411b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (50 pages, 151063 bytes).
+ 75i,15n,79p,1411b,569s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (57 pages, 185379 bytes).
 PDF statistics:
- 662 PDF objects out of 1000 (max. 8388607)
- 507 compressed objects within 6 object streams
- 137 named destinations out of 1000 (max. 500000)
- 665 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 906 PDF objects out of 1000 (max. 8388607)
+ 735 compressed objects within 8 object streams
+ 171 named destinations out of 1000 (max. 500000)
+ 834 words of extra memory for PDF output out of 10000 (max. 10000000)
 
