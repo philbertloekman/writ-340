@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Transit Cost Overruns</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 16px 20px;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    padding: 18px 24px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #212121;
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eceff1;
+  }
+
+  /* Project block */
+  .project {
+    padding: 10px 0;
+    border-bottom: 1px solid #eceff1;
+  }
+  .project:last-of-type { border-bottom: none; }
+
+  .project-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    gap: 10px;
+  }
+
+  .name {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #212121;
+  }
+
+  .badge {
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 20px;
+    color: #fff;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .badge.mild { background: #f9a825; }
+  .badge.mod  { background: #e65100; }
+  .badge.sev  { background: #b71c1c; }
+
+  /* Budget bar */
+  .bar-track {
+    height: 32px;
+    background: #eceff1;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 6px;
+  }
+  .bar-orig { position: absolute; top: 0; left: 0; height: 100%; background: #90a4ae; }
+  .bar-over { position: absolute; top: 0; height: 100%; }
+  .bar-over.mild { background: #f9a825; }
+  .bar-over.mod  { background: #e65100; }
+  .bar-over.sev  { background: #b71c1c; }
+
+  /* Footer: budget numbers + date */
+  .project-footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: #546e7a;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .project-footer .budget { }
+  .project-footer .budget .curr { font-weight: 700; color: #37474f; }
+  .project-footer .date  { }
+  .project-footer .date  .val  { font-weight: 700; color: #37474f; }
+  .arr { color: #bdbdbd; margin: 0 3px; }
+
+  @media print {
+    body { background: #fff; padding: 0; }
+    .card { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <h2>Cost Overruns &amp; Schedule Delays</h2>
+
+  <!-- D LINE -->
+  <div class="project">
+    <div class="project-head">
+      <span class="name">D Line (Purple Line) — Section 1</span>
+      <span class="badge mild">+25%</span>
+    </div>
+    <!-- orig = 2.8/3.5 = 80% -->
+    <div class="bar-track">
+      <div class="bar-orig" style="width:80%"></div>
+      <div class="bar-over mild" style="left:80%;width:20%"></div>
+    </div>
+    <div class="project-footer">
+      <span class="budget">$2.8 B<span class="arr">&#x2192;</span><span class="curr">$3.5 B</span> &nbsp;(+$0.7 B)</span>
+      <span class="date">Opening: 2023<span class="arr">&#x2192;</span><span class="val">2026</span> &nbsp;(3-yr delay)</span>
+    </div>
+  </div>
+
+  <!-- LAX APM -->
+  <div class="project">
+    <div class="project-head">
+      <span class="name">LAX Automated People Mover</span>
+      <span class="badge mod">+84%</span>
+    </div>
+    <!-- orig = 1.9/3.5 = 54.3% -->
+    <div class="bar-track">
+      <div class="bar-orig" style="width:54.3%"></div>
+      <div class="bar-over mod" style="left:54.3%;width:45.7%"></div>
+    </div>
+    <div class="project-footer">
+      <span class="budget">$1.9 B<span class="arr">&#x2192;</span><span class="curr">$3.5 B</span> &nbsp;(+$1.6 B)</span>
+      <span class="date">Opening: 2023<span class="arr">&#x2192;</span><span class="val">In Progress</span></span>
+    </div>
+  </div>
+
+  <!-- CA HSR -->
+  <div class="project">
+    <div class="project-head">
+      <span class="name">California High-Speed Rail</span>
+      <span class="badge sev">+288%</span>
+    </div>
+    <!-- orig = 33/128 = 25.8% -->
+    <div class="bar-track">
+      <div class="bar-orig" style="width:25.8%"></div>
+      <div class="bar-over sev" style="left:25.8%;width:74.2%"></div>
+    </div>
+    <div class="project-footer">
+      <span class="budget">$33 B<span class="arr">&#x2192;</span><span class="curr">$128 B</span> &nbsp;(+$95 B)</span>
+      <span class="date">Opening: 2020<span class="arr">&#x2192;</span><span class="val">No completed segments</span></span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

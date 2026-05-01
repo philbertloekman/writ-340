@@ -13,7 +13,7 @@
 \contentsline {subsubsection}{\numberline {2.3.2}Redesigning the Pralumex Website}{11}{subsubsection.2.3.2}%
 \contentsline {subsubsection}{\numberline {2.3.3}Time Management \& Productivity Habits}{11}{subsubsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.4}Goal \#4}{13}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Active Participation in Class}{13}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1}Active Participation in Classes}{13}{subsubsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.5}Goal \#5}{13}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Following Software \& Technology Content}{14}{subsubsection.2.5.1}%
 \contentsline {subsubsection}{\numberline {2.5.2}NTSB Articles \& Aviation Crash Investigations}{14}{subsubsection.2.5.2}%

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MCAS Timeline</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 28px 20px;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    padding: 24px 28px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .row {
+    display: flex;
+    align-items: stretch;
+    min-height: 0;
+  }
+
+  .tag {
+    width: 90px;
+    min-width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 12px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #78909c;
+    line-height: 1.3;
+    text-align: right;
+  }
+
+  .line {
+    width: 3px;
+    flex-shrink: 0;
+    position: relative;
+  }
+
+  .line.g { background: #2e7d32; }
+  .line.a { background: #e65100; }
+  .line.r { background: #b71c1c; }
+  .line.p { background: #ad1457; }
+
+  .line::before {
+    content: '';
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 11px; height: 11px;
+    border-radius: 50%;
+    background: inherit;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1.5px currentColor;
+  }
+
+  .box {
+    flex: 1;
+    margin: 3px 0 3px 14px;
+    border-radius: 7px;
+    padding: 9px 13px;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: #212121;
+  }
+
+  .box b { font-size: 0.8rem; display: block; margin-bottom: 2px; }
+
+  .box.g { background: #e8f5e9; border-left: 3px solid #2e7d32; }
+  .box.a { background: #fff3e0; border-left: 3px solid #e65100; }
+  .box.r { background: #ffebee; border-left: 3px solid #b71c1c; }
+  .box.p { background: #fce4ec; border-left: 3px solid #ad1457; }
+
+  .gap { height: 8px; }
+  .gap .line::before { display: none; }
+
+  .la { display: inline-block; font-size: 0.6rem; font-weight: 700; padding: 1px 5px; border-radius: 3px; background: #e3f2fd; color: #1565c0; margin: 0 2px; vertical-align: middle; }
+  .et { display: inline-block; font-size: 0.6rem; font-weight: 700; padding: 1px 5px; border-radius: 3px; background: #f3e5f5; color: #6a1b9a; margin: 0 2px; vertical-align: middle; }
+
+  /* Loop card wrapper keeps the line running alongside */
+  .loop-wrapper {
+    display: flex;
+    align-items: stretch;
+  }
+  .loop-wrapper .tag { align-items: flex-start; padding-top: 14px; }
+  .loop-wrapper .line { align-self: stretch; }
+
+  /* Loop card */
+  .loop-card {
+    margin: 4px 0 4px 14px;
+    flex: 1;
+    border: 1.5px solid #ad1457;
+    border-radius: 7px;
+    background: #fff0f5;
+    padding: 7px 10px 6px;
+  }
+  .loop-card-header {
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #ad1457;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .loop-steps {
+    display: flex;
+    align-items: center;
+    gap: 0;
+  }
+  .loop-step {
+    flex: 1;
+    background: #fff;
+    border: 1px solid #f48fb1;
+    border-radius: 5px;
+    padding: 5px 6px;
+    text-align: center;
+  }
+  .loop-step .val {
+    font-size: 0.88rem;
+    font-weight: 700;
+    display: block;
+    line-height: 1.1;
+  }
+  .loop-step.down .val { color: #b71c1c; }
+  .loop-step.up .val   { color: #2e7d32; }
+  .loop-step.net .val  { color: #ad1457; }
+  .loop-step .lbl {
+    font-size: 0.58rem;
+    color: #546e7a;
+    display: block;
+    margin-top: 2px;
+    line-height: 1.2;
+  }
+  .loop-arrow {
+    display: flex;
+    align-items: center;
+    padding: 0 4px;
+    font-size: 0.85rem;
+    color: #ad1457;
+    flex-shrink: 0;
+  }
+  .loop-footer {
+    margin-top: 5px;
+    font-size: 0.6rem;
+    color: #ad1457;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .crash {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 3px 0 0 14px;
+    background: #b71c1c;
+    color: #fff;
+    border-radius: 7px;
+    padding: 11px 14px;
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+  .crash span { font-size: 0.7rem; font-weight: 400; opacity: 0.88; display: block; margin-top: 2px; }
+
+  .legend {
+    display: flex; gap: 16px; flex-wrap: wrap;
+    justify-content: center;
+    font-size: 0.67rem; color: #546e7a;
+    margin-top: 16px; padding-top: 12px;
+    border-top: 1px solid #eceff1;
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; }
+
+  @media print {
+    body { background: #fff; padding: 0; }
+    .card { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <!-- TAKEOFF -->
+  <div class="row">
+    <div class="tag">Takeoff</div>
+    <div class="line g"></div>
+    <div class="box g">
+      <b>Normal departure</b>
+      Flaps retracted, initial climb underway. <span class="la">LA</span> A faulty AOA sensor from the prior flight was not corrected. <span class="et">ET</span> Crew had no knowledge of the Lion Air crash five months earlier.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line g"></div></div>
+
+  <!-- SENSOR FAULT -->
+  <div class="row">
+    <div class="tag">Sensor Fault</div>
+    <div class="line a"></div>
+    <div class="box a">
+      <b>Faulty AOA sensor triggers a false stall warning</b>
+      <span class="la">LA</span> 20+ degree sensor disagreement. <span class="et">ET</span> 59.2 degree disagreement within seconds of takeoff. No cockpit alert existed to warn the crew.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line a"></div></div>
+
+  <!-- MCAS -->
+  <div class="row">
+    <div class="tag">MCAS<br>Activates</div>
+    <div class="line r"></div>
+    <div class="box r">
+      <b>Automatic nose-down command of 2.5 degrees per activation</b>
+      The stick-shaker fires and pilots feel a sudden nose-down push. MCAS was not documented in the flight manual and neither crew had been trained on it.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line r"></div></div>
+
+  <!-- CREW -->
+  <div class="row">
+    <div class="tag">Crew<br>Response</div>
+    <div class="line r"></div>
+    <div class="box r">
+      <b>Crew pulls back and applies electric trim to counter the nose-down push</b>
+      Each input recovers about 0.4 degrees. MCAS resets and fires again 5 seconds later, removing 2.5 degrees. <span class="et">ET</span> Briefly cut stabilizer trim but re-engaged it at high speed, making manual trim physically impossible.
+    </div>
+  </div>
+
+  <!-- CYCLE -->
+  <div class="loop-wrapper">
+    <div class="tag" style="color:#ad1457;">Loop</div>
+    <div class="line p" style="align-self:stretch;"></div>
+  <div class="loop-card">
+    <div class="loop-card-header">
+      <span>&#x21BB;</span> Feedback Loop — repeats every 5 seconds
+    </div>
+    <div class="loop-steps">
+      <div class="loop-step down">
+        <span class="val">-2.5&#xB0;</span>
+        <span class="lbl">MCAS pushes<br>nose down</span>
+      </div>
+      <div class="loop-arrow">&#x2192;</div>
+      <div class="loop-step up">
+        <span class="val">+0.4&#xB0;</span>
+        <span class="lbl">Crew pulls<br>back up</span>
+      </div>
+      <div class="loop-arrow">&#x2192;</div>
+      <div class="loop-step net">
+        <span class="val">-2.1&#xB0;</span>
+        <span class="lbl">Net loss<br>per cycle</span>
+      </div>
+      <div class="loop-arrow">&#x21BB;</div>
+    </div>
+    <div class="loop-footer">Each cycle compounds the last. Stabilizer displacement grows until it exceeds human recovery capability.</div>
+  </div>
+  </div><!-- end loop-wrapper -->
+
+  <div class="row gap"><div class="tag"></div><div class="line r"></div></div>
+
+  <!-- LOSS OF CONTROL -->
+  <div class="row">
+    <div class="tag">Loss of<br>Control</div>
+    <div class="line r"></div>
+    <div class="box p">
+      <b>Stabilizer deflection exceeds what pilots can physically overcome</b>
+      Aerodynamic forces on the jackscrew at high speed are too great to counter. The aircraft enters a steep dive. <span class="la">LA</span> 13 min after takeoff. <span class="et">ET</span> 6 min after takeoff.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line r"></div></div>
+
+  <!-- CRASH -->
+  <div class="row">
+    <div class="tag"></div>
+    <div class="line r"></div>
+    <div class="crash">
+      <div style="font-size:1.4rem;">&#x2708;</div>
+      <div>
+        Fatal Impact — Zero Survivors
+        <span>Lion Air 610: 189 &nbsp;·&nbsp; Ethiopian 302: 157 &nbsp;·&nbsp; Total: 346 lives lost</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <div class="legend-item"><div class="dot" style="background:#2e7d32"></div> Normal</div>
+    <div class="legend-item"><div class="dot" style="background:#e65100"></div> Abnormal</div>
+    <div class="legend-item"><div class="dot" style="background:#b71c1c"></div> Loss of control</div>
+    <div class="legend-item"><div class="dot" style="background:#ad1457"></div> Feedback loop</div>
+    <div class="legend-item"><span class="la">LA</span> Lion Air 610</div>
+    <div class="legend-item"><span class="et">ET</span> Ethiopian 302</div>
+  </div>
+
+</div>
+</body>
+</html>

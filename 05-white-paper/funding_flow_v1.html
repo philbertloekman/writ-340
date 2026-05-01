@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Transit Funding Flow</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 16px 20px;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    padding: 18px 24px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  .row {
+    display: flex;
+    align-items: stretch;
+    min-height: 0;
+  }
+
+  .tag {
+    width: 36px;
+    min-width: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 20px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #212121;
+    line-height: 1;
+    text-align: right;
+  }
+
+  .line {
+    width: 3px;
+    flex-shrink: 0;
+    position: relative;
+  }
+
+  .line.g { background: #2e7d32; }
+  .line.n { background: #546e7a; }
+  .line.a { background: #e65100; }
+  .line.r { background: #b71c1c; }
+
+  .line::before {
+    content: '';
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: inherit;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1.5px currentColor;
+  }
+
+  .box {
+    flex: 1;
+    margin: 3px 0 3px 14px;
+    border-radius: 7px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #212121;
+  }
+
+  .box b { font-size: 0.82rem; display: block; margin-bottom: 3px; }
+
+  .box.g { background: #e8f5e9; border-left: 3px solid #2e7d32; }
+  .box.n { background: #eceff1; border-left: 3px solid #546e7a; }
+  .box.a { background: #fff3e0; border-left: 3px solid #e65100; }
+  .box.r { background: #ffebee; border-left: 3px solid #b71c1c; }
+
+  .gap { height: 6px; }
+  .gap .line::before { display: none; }
+
+  /* Inline badges */
+  .pill {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    padding: 1px 6px;
+    border-radius: 3px;
+    margin: 0 2px;
+    vertical-align: middle;
+  }
+  .pill.vote  { background: #e8f5e9; color: #2e7d32; border: 1px solid #a5d6a7; }
+  .pill.warn  { background: #ffebee; color: #b71c1c; border: 1px solid #ef9a9a; }
+
+  @media print {
+    body { background: #fff; padding: 0; }
+    .card { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <!-- STAGE 1 -->
+  <div class="row">
+    <div class="tag">1</div>
+    <div class="line g"></div>
+    <div class="box g">
+      <b>Voters approve a sales tax measure</b>
+      <span class="pill vote">Measure R · 2008 · 67%</span> <span class="pill vote">Measure M · 2016 · 71%</span> create the funding pool. Voters set the tax rate, not project budgets.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line g"></div></div>
+
+  <!-- STAGE 2 -->
+  <div class="row">
+    <div class="tag">2</div>
+    <div class="line n"></div>
+    <div class="box n">
+      <b>Metro sets the actual project budget</b>
+      Locked in at construction start, years after the vote. Voters never approve the number.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line n"></div></div>
+
+  <!-- STAGE 3 -->
+  <div class="row">
+    <div class="tag">3</div>
+    <div class="line a"></div>
+    <div class="box a">
+      <b>Metro Board approves the overrun <span class="pill warn">No public vote</span></b>
+      2/3 Metro Board vote needed to raise the budget.
+    </div>
+  </div>
+
+  <div class="row gap"><div class="tag"></div><div class="line a"></div></div>
+
+  <!-- STAGE 4 -->
+  <div class="row">
+    <div class="tag">4</div>
+    <div class="line r"></div>
+    <div class="box r">
+      <b>New money drawn from existing funds</b>
+      Paid from sales tax revenue, federal grants, or by delaying other projects.
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

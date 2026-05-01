@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Transit Cost Overruns</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 28px 20px;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    padding: 24px 28px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .card-head {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eceff1;
+  }
+  .card-head h2 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #212121;
+    margin-bottom: 3px;
+  }
+  .card-head p {
+    font-size: 0.68rem;
+    color: #78909c;
+  }
+
+  .row {
+    display: flex;
+    align-items: stretch;
+    min-height: 0;
+  }
+
+  .tag {
+    width: 90px;
+    min-width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 12px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #78909c;
+    line-height: 1.3;
+    text-align: right;
+  }
+
+  .line {
+    width: 3px;
+    flex-shrink: 0;
+    position: relative;
+  }
+
+  .line.mild { background: #f9a825; }
+  .line.mod  { background: #e65100; }
+  .line.sev  { background: #b71c1c; }
+
+  .line::before {
+    content: '';
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 11px; height: 11px;
+    border-radius: 50%;
+    background: inherit;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1.5px currentColor;
+  }
+
+  .box {
+    flex: 1;
+    margin: 4px 0 10px 14px;
+    border-radius: 7px;
+    padding: 10px 13px;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: #212121;
+  }
+  .box.mild { background: #fffde7; border-left: 3px solid #f9a825; }
+  .box.mod  { background: #fff3e0; border-left: 3px solid #e65100; }
+  .box.sev  { background: #ffebee; border-left: 3px solid #b71c1c; }
+
+  .box-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .box-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #212121;
+  }
+  .badge {
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 20px;
+    color: #fff;
+    white-space: nowrap;
+  }
+  .badge.mild { background: #f9a825; }
+  .badge.mod  { background: #e65100; }
+  .badge.sev  { background: #b71c1c; }
+
+  /* Budget comparison bar */
+  .bar-track {
+    height: 16px;
+    background: #eceff1;
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 5px;
+  }
+  .bar-orig {
+    position: absolute;
+    top: 0; left: 0;
+    height: 100%;
+    background: #90a4ae;
+  }
+  .bar-over {
+    position: absolute;
+    top: 0;
+    height: 100%;
+  }
+  .bar-over.mild { background: #f9a825; }
+  .bar-over.mod  { background: #e65100; }
+  .bar-over.sev  { background: #b71c1c; }
+
+  /* Stripe texture on overrun bar to visually signal "extra" spend */
+  .bar-over::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      45deg,
+      rgba(255,255,255,0.12),
+      rgba(255,255,255,0.12) 3px,
+      transparent 3px,
+      transparent 7px
+    );
+  }
+
+  .bar-labels {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.62rem;
+    color: #546e7a;
+    margin-bottom: 8px;
+  }
+  .bar-labels .orig  { color: #78909c; }
+  .bar-labels .arr   { color: #bdbdbd; }
+  .bar-labels .curr  { font-weight: 700; color: #37474f; }
+  .bar-labels .over  { margin-left: auto; font-weight: 700; }
+  .bar-labels .over.mild { color: #f9a825; }
+  .bar-labels .over.mod  { color: #e65100; }
+  .bar-labels .over.sev  { color: #b71c1c; }
+
+  /* Date/status row */
+  .meta-row {
+    display: flex;
+    gap: 16px;
+    font-size: 0.67rem;
+    color: #546e7a;
+    flex-wrap: wrap;
+  }
+  .meta-item { display: flex; align-items: center; gap: 3px; }
+  .meta-item .lbl  { font-weight: 600; }
+  .meta-item .from { color: #9e9e9e; }
+  .meta-item .arr  { color: #bdbdbd; margin: 0 1px; }
+  .meta-item .val  { font-weight: 700; color: #37474f; }
+
+  /* Summary row at the bottom */
+  .summary {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid #eceff1;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .sum-block {
+    flex: 1;
+    min-width: 130px;
+    text-align: center;
+    border-radius: 7px;
+    padding: 10px 12px;
+  }
+  .sum-block.mild { background: #fffde7; }
+  .sum-block.mod  { background: #fff3e0; }
+  .sum-block.sev  { background: #ffebee; }
+  .sum-block .s-name {
+    font-size: 0.58rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #78909c;
+    display: block;
+    margin-bottom: 4px;
+  }
+  .sum-block .s-pct {
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: block;
+    line-height: 1;
+    margin-bottom: 3px;
+  }
+  .sum-block.mild .s-pct { color: #f9a825; }
+  .sum-block.mod  .s-pct { color: #e65100; }
+  .sum-block.sev  .s-pct { color: #b71c1c; }
+  .sum-block .s-detail {
+    font-size: 0.6rem;
+    color: #546e7a;
+    display: block;
+  }
+
+  /* Legend */
+  .legend {
+    display: flex; gap: 16px; flex-wrap: wrap;
+    justify-content: center;
+    font-size: 0.67rem; color: #546e7a;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #eceff1;
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+
+  @media print {
+    body { background: #fff; padding: 0; }
+    .card { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="card-head">
+    <h2>California Transit Infrastructure — Cost Overruns &amp; Schedule Delays</h2>
+    <p>Original budget and opening targets vs. current estimates &nbsp;&middot;&nbsp; Bar shows original (gray) + overrun (color) as share of current total</p>
+  </div>
+
+  <!-- D LINE SECTION 1 -->
+  <div class="row">
+    <div class="tag">D Line<br>Section 1</div>
+    <div class="line mild"></div>
+    <div class="box mild">
+      <div class="box-head">
+        <span class="box-title">Purple Line Extension — Section 1 (Wilshire/Western to Wilshire/UCLA)</span>
+        <span class="badge mild">+25% over budget</span>
+      </div>
+      <!-- orig = 2.8/3.5 = 80% · over starts at 80%, width 20% -->
+      <div class="bar-track">
+        <div class="bar-orig" style="width:80%"></div>
+        <div class="bar-over mild" style="left:80%;width:20%"></div>
+      </div>
+      <div class="bar-labels">
+        <span class="orig">$2.8 B original</span>
+        <span class="arr">&#x2192;</span>
+        <span class="curr">$3.5 B current</span>
+        <span class="over mild">+$0.7 B overrun</span>
+      </div>
+      <div class="meta-row">
+        <div class="meta-item">
+          <span class="lbl">Opening:</span>
+          <span class="from">2023</span>
+          <span class="arr">&#x2192;</span>
+          <span class="val">2026</span>
+        </div>
+        <div class="meta-item">
+          <span class="lbl">Delay:</span>
+          <span class="val">3 years</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LAX APM -->
+  <div class="row">
+    <div class="tag">LAX<br>APM</div>
+    <div class="line mod"></div>
+    <div class="box mod">
+      <div class="box-head">
+        <span class="box-title">LAX Automated People Mover</span>
+        <span class="badge mod">+84% over budget</span>
+      </div>
+      <!-- orig = 1.9/3.5 = 54.3% · over width = 45.7% -->
+      <div class="bar-track">
+        <div class="bar-orig" style="width:54.3%"></div>
+        <div class="bar-over mod" style="left:54.3%;width:45.7%"></div>
+      </div>
+      <div class="bar-labels">
+        <span class="orig">$1.9 B original</span>
+        <span class="arr">&#x2192;</span>
+        <span class="curr">$3.5 B current</span>
+        <span class="over mod">+$1.6 B overrun</span>
+      </div>
+      <div class="meta-row">
+        <div class="meta-item">
+          <span class="lbl">Opening:</span>
+          <span class="from">2023</span>
+          <span class="arr">&#x2192;</span>
+          <span class="val">In Progress</span>
+        </div>
+        <div class="meta-item">
+          <span class="lbl">Status:</span>
+          <span class="val">No completion date set</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CA HIGH-SPEED RAIL -->
+  <div class="row">
+    <div class="tag">CA High-<br>Speed Rail</div>
+    <div class="line sev"></div>
+    <div class="box sev">
+      <div class="box-head">
+        <span class="box-title">California High-Speed Rail</span>
+        <span class="badge sev">+288% over budget</span>
+      </div>
+      <!-- orig = 33/128 = 25.8% · over width = 74.2% -->
+      <div class="bar-track">
+        <div class="bar-orig" style="width:25.8%"></div>
+        <div class="bar-over sev" style="left:25.8%;width:74.2%"></div>
+      </div>
+      <div class="bar-labels">
+        <span class="orig">$33 B original</span>
+        <span class="arr">&#x2192;</span>
+        <span class="curr">$128 B current</span>
+        <span class="over sev">+$95 B overrun</span>
+      </div>
+      <div class="meta-row">
+        <div class="meta-item">
+          <span class="lbl">Opening:</span>
+          <span class="from">2020</span>
+          <span class="arr">&#x2192;</span>
+          <span class="val">No completed segments</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SUMMARY COMPARISON -->
+  <div class="summary">
+    <div class="sum-block mild">
+      <span class="s-name">D Line Section 1</span>
+      <span class="s-pct">+25%</span>
+      <span class="s-detail">$0.7 B over &nbsp;&middot;&nbsp; 3-yr delay</span>
+    </div>
+    <div class="sum-block mod">
+      <span class="s-name">LAX APM</span>
+      <span class="s-pct">+84%</span>
+      <span class="s-detail">$1.6 B over &nbsp;&middot;&nbsp; ongoing</span>
+    </div>
+    <div class="sum-block sev">
+      <span class="s-name">CA High-Speed Rail</span>
+      <span class="s-pct">+288%</span>
+      <span class="s-detail">$95 B over &nbsp;&middot;&nbsp; no segments built</span>
+    </div>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="legend">
+    <div class="legend-item"><div class="dot" style="background:#90a4ae"></div> Original budget</div>
+    <div class="legend-item"><div class="dot" style="background:#f9a825"></div> Mild overrun (&lt;50%)</div>
+    <div class="legend-item"><div class="dot" style="background:#e65100"></div> Significant overrun (50–100%)</div>
+    <div class="legend-item"><div class="dot" style="background:#b71c1c"></div> Severe overrun (&gt;200%)</div>
+  </div>
+
+</div>
+</body>
+</html>

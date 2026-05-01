@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777162442.12904 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" "main.pdf" "main" 1777162442.60951 0
-  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" 1777162441.86807 54170 687023079b1dbf66fc05a7bcc300c93e ""
+["pdflatex"] 1777162805.78611 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" "main.pdf" "main" 1777162833.39446 0
+  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" 1777162806.17813 54173 42b518b487a0e0289dfcd0d6619a30a7 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -26,7 +26,6 @@
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
-  "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
@@ -34,7 +33,6 @@
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
-  "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1248133631 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024basic/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -204,10 +202,10 @@
   "images/work-revisions/incident-report.png" 1777158966.96935 54495 9cf5da5161c231147e0396f61ddd7d8e ""
   "images/work-revisions/sioet.png" 1777158941.88622 62816 dc946714568b39ff0b1efe05e2700fe0 ""
   "images/work-revisions/technical-description.png" 1777158900.77152 43312 f59153fe909bf68683be91d90b402984 ""
-  "main.aux" 1777162442.56226 8800 809f3224134df15879ab74c7fd352fe7 "pdflatex"
-  "main.out" 1777162442.56302 10482 44ea1ce5cc83cd90b864a96f2d0a3605 "pdflatex"
-  "main.tex" 1777162441.86807 54170 687023079b1dbf66fc05a7bcc300c93e ""
-  "main.toc" 1777162442.56322 5119 d82d298b1c033e3cd7d609d8e473b813 "pdflatex"
+  "main.aux" 1777162833.32608 8802 d2d8e995d47462508e41be9e38bd95a2 "pdflatex"
+  "main.out" 1777162833.32685 10492 c74f5bdaec8ba58e3661fd26ed0a0777 "pdflatex"
+  "main.tex" 1777162806.17813 54173 42b518b487a0e0289dfcd0d6619a30a7 ""
+  "main.toc" 1777162833.32703 5121 b30085fe4e8bdb5d90da8344de5f53dd "pdflatex"
   (generated)
   "main.aux"
   "main.log"
