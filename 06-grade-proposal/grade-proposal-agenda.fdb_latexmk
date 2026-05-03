@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777608610.39122 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/grade-proposal-agenda.tex" "grade-proposal-agenda.pdf" "grade-proposal-agenda" 1777608610.66107 0
-  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/grade-proposal-agenda.tex" 1777608610.22105 4552 90a64fff8fbb51a353ec04eefa5c4ca2 ""
+["pdflatex"] 1777608850.63623 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/grade-proposal-agenda.tex" "grade-proposal-agenda.pdf" "grade-proposal-agenda" 1777608850.90099 0
+  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/grade-proposal-agenda.tex" 1777608850.47359 4482 bf711b046ca75e21e1fcc36359872558 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -80,9 +80,9 @@
   "/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734745082.28573 323232 8d6b4d68f7f826a5194e7d6f42a8eadd ""
   "/usr/local/texlive/2024basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1734744914 7536454 1e48431af90f606021ea61a34fdda1da ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
-  "grade-proposal-agenda.aux" 1777608610.63445 257 aabf460045fbd668353aae9fa37b6c47 "pdflatex"
-  "grade-proposal-agenda.out" 1777608610.57042 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "grade-proposal-agenda.tex" 1777608610.22105 4552 90a64fff8fbb51a353ec04eefa5c4ca2 ""
+  "grade-proposal-agenda.aux" 1777608850.87533 257 aabf460045fbd668353aae9fa37b6c47 "pdflatex"
+  "grade-proposal-agenda.out" 1777608850.81045 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "grade-proposal-agenda.tex" 1777608850.47359 4482 bf711b046ca75e21e1fcc36359872558 ""
   "images/TheShield.png" 1777108726.32414 57716 dae272a9297db603378f44488aa52034 ""
   (generated)
   "grade-proposal-agenda.aux"
