@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1777856156.32033 "main.aux" "main.bbl" "main" 1777856176.05423 0
+["bibtex main"] 1777862925.67597 "main.aux" "main.bbl" "main" 1777862926.83171 0
   "./IEEEtran.bst" 1777855523.77059 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "./references.bib" 1777855715.71694 8113 669385a7c6bb9060220a4619e2e512af ""
-  "main.aux" 1777856175.99898 4110 b8960586a349e7ba1d26beda5095ad2f "pdflatex"
+  "main.aux" 1777862926.77249 4514 8ec1259db4319d273bc1a65d51a6e58f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777856174.92154 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777856176.05436 0
-  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777856174.70146 12847 05da9dc7685eb2d06777b9509956472e ""
+["pdflatex"] 1777862925.69269 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777862926.83184 0
+  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777862926.52155 13583 8b0c1121fb7211989d4778524b27e178 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -125,12 +125,13 @@
   "images/philbert/fig-p1-dline.png" 1777854141.70491 233445 a6fc93e35a132db12bfae0bc37d12f97 ""
   "images/philbert/fig-p2-lax-apm.png" 1777854160.74936 166933 54ea6c147ae1e32d138fb15d5acab7d5 ""
   "images/philbert/fig-p3-cahsr.png" 1777854177.49214 198844 f33080b0d2214903d7999ac8038eb22b ""
-  "main.aux" 1777856175.99898 4110 b8960586a349e7ba1d26beda5095ad2f "pdflatex"
-  "main.bbl" 1777856156.33448 6883 3700a4be87ec5fc0ea59cd03fe4bcb70 "bibtex main"
-  "main.lof" 1777856175.99988 363 3d212912761ac3d952403cdb21da55d7 "pdflatex"
-  "main.out" 1777856175.99963 2330 0a7cd86733f50d031fe4c9ba56516ea1 "pdflatex"
-  "main.tex" 1777856174.70146 12847 05da9dc7685eb2d06777b9509956472e ""
-  "main.toc" 1777856175.99985 1426 da405028cb8cf8f438b847018d2aa7dc "pdflatex"
+  "images/philbert/funding_flow_v1.png" 1777862491.58085 98742 5ef5e3469657a08144f254e49ed59fcc ""
+  "main.aux" 1777862926.77249 4514 8ec1259db4319d273bc1a65d51a6e58f "pdflatex"
+  "main.bbl" 1777862925.69099 6773 3211e8542a0eb4ac1354b22cde372613 "bibtex main"
+  "main.lof" 1777862926.77323 493 d1ca43f15977b80cc499fe72cd64644a "pdflatex"
+  "main.out" 1777862926.77305 2462 a0865fd2d1db1a004f0a8594e587cf9a "pdflatex"
+  "main.tex" 1777862926.52155 13583 8b0c1121fb7211989d4778524b27e178 ""
+  "main.toc" 1777862926.7732 1505 9688d20c7208076f9f790c66ab572a2f "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
