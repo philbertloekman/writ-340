@@ -17,3 +17,6 @@
 \contentsline {subsection}{\numberline {6.2}Voter-Approved Cost Caps}{19}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Milestone-Based Funding}{20}{subsection.6.3}%
 \contentsline {section}{\numberline {7}Next Steps}{22}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Policymakers and Project Managers}{22}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Residents}{22}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Future Planning}{23}{subsection.7.3}%
