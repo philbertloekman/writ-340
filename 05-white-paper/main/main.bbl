@@ -20,6 +20,19 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{j5}
+\BIBentryALTinterwordspacing
+{Los Angeles County Metropolitan Transportation Authority}, ``Fiscal year 2026 proposed budget book,'' April 2025, accessed: May 3, 2026. [Online]. Available: \url{https://www.railwayage.com/wp-content/uploads/2025/05/Fiscal-Year-2026-Proposed-Budget-Book.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j6}
+\BIBentryALTinterwordspacing
+{Metro Magazine}, ``{L.A.} board approves 4 major projects to move forward,'' Metro Magazine, 2024, accessed: May 3, 2026. [Online]. Available: \url{https://www.metro-magazine.com/news/l-a-board-approves-4-major-projects-to-move-forward}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j7}
+B.~Flyvbjerg, M.~K. {Skamris Holm}, and S.~L. Buhl, ``Underestimating costs in public works projects: Error or lie?'' \emph{Journal of the American Planning Association}, vol.~68, no.~3, pp. 279--295, 2002.
+
 \bibitem{p1}
 \BIBentryALTinterwordspacing
 M.~Manville, ``Measure {M} and the potential transformation of mobility in {Los Angeles},'' University of California Institute of Transportation Studies, ITS Report, December 2018, accessed: Apr. 15, 2026. [Online]. Available: \url{https://escholarship.org/uc/item/3t41j8gv}
@@ -143,6 +156,11 @@ R.~Labi, ``California high-speed rail authority misses deadline for plan,'' The 
 \bibitem{n9}
 \BIBentryALTinterwordspacing
 {Foresight}, ``The true cost of delays at scale,'' Foresight, April 2023, accessed: Apr. 15, 2026. [Online]. Available: \url{https://www.foresight.works/blog/the-true-cost-of-delays-at-scale}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j8}
+\BIBentryALTinterwordspacing
+{UK Department for Transport}, ``Updating the evidence behind the optimism bias uplifts for transport appraisals,'' May 2021, accessed: May 3, 2026. [Online]. Available: \url{https://assets.publishing.service.gov.uk/media/6093d448e90e0726f52fc54c/updating-the-evidence-behind-the-optimism-bias-uplifts-for-transport-appraisals.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{p7}
