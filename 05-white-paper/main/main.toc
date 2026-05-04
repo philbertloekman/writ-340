@@ -1,51 +1,18 @@
-\contentsline {section}{\numberline {1}Claim}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Proposal}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Meeting Baseline Requirements}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Fulfillment of Individual Learning Plan (ILP) Revised Goals for A}{3}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Discussion}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Goal \#1}{5}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Learning \LaTeX {} \& Writing Technical Deliverables in CSCI 401}{5}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Independent Reading}{6}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Goal \#2}{8}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Revising Work}{8}{subsubsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.3}Goal \#3}{9}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Learning AI Coding Tools}{9}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Redesigning the Pralumex Website}{10}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Time Management \& Productivity Habits}{10}{subsubsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}Goal \#4}{12}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Active Participation in Classes}{12}{subsubsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.5}Goal \#5}{12}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Following Software \& Technology Content}{13}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}NTSB Articles \& Aviation Crash Investigations}{13}{subsubsection.2.5.2}%
-\contentsline {section}{\numberline {3}Appendix}{14}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Appendix A: \LaTeX {} Deliverables (CSCI 401, Deliverables 1 through 4)}{15}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Deliverable 1}{15}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Deliverable 2}{17}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Deliverable 3}{19}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Deliverable 4}{23}{subsubsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.2}Appendix B: Reading List \& Sources}{25}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Books}{25}{subsubsection.3.2.1}%
-\contentsline {paragraph}{\textit {How to Lie with Statistics} by Darrell Huff}{25}{section*.19}%
-\contentsline {paragraph}{\textit {The Anxious Generation} by Jonathan Haidt}{25}{section*.21}%
-\contentsline {subsection}{\numberline {3.3}Appendix C: Micro Revisions of Work}{26}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Technical Description}{26}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Social Impact of Emerging Technology (SIoET)}{26}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Incident Report}{26}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Appendix D: AI Coding Tool Videos \& Sources}{28}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Claude Code}{28}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Cursor}{28}{subsubsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.5}Appendix E: Pralumex Website Screenshots}{29}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}E.1 --- Original Site (\href {https://old.pralumex.com}{old.pralumex.com})}{30}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}E.2 --- Current Site (\href {https://pralumex.com}{pralumex.com})}{33}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{41}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{52}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{52}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits Sources}{53}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Videos \& Articles}{53}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}Timeboxing Calendar}{53}{subsubsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{54}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{54}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{55}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{56}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{56}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{56}{subsubsection.3.9.2}%
+\contentsline {section}{\numberline {1}Background}{4}{section.1}%
+\contentsline {section}{\numberline {2}Problem}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Unchecked Cost Overruns in Transit Projects}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Case 1: D Line Subway Extension}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Case 2: LAX Automated People Mover (APM)}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Case 3: California High-Speed Rail}{8}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Solutions}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Voter-Approved Cost Caps}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Benefits}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Benefits of Voter-Approved Cost Caps}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Next Steps}{11}{section.5}%
+\contentsline {section}{\numberline {6}References}{12}{section.6}%
