@@ -240,6 +240,12 @@ INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
@@ -265,7 +271,6 @@ INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
-INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT ./images/philbert/fig-p2-lax-apm.png
 INPUT ./images/philbert/fig-p2-lax-apm.png
 INPUT ./images/philbert/fig-p2-lax-apm.png
@@ -275,7 +280,6 @@ INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
-INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./images/philbert/fig-p3-cahsr.png
 INPUT ./images/philbert/fig-p3-cahsr.png
 INPUT ./images/philbert/fig-p3-cahsr.png
