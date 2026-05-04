@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1777871245.9416 "main.aux" "main.bbl" "main" 1777871247.59014 0
+["bibtex main"] 1777871245.9416 "main.aux" "main.bbl" "main" 1777871719.55735 0
   "./IEEEtran.bst" 1777855523.77059 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "./references.bib" 1777870619.03486 16231 83c595db28f9c87b5cb31ece3d6941e5 ""
-  "main.aux" 1777871247.5356 7648 909e1eb35fb9fdcac6d613f397605d70 "pdflatex"
+  "main.aux" 1777871719.49833 7648 909e1eb35fb9fdcac6d613f397605d70 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777871245.95799 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777871247.59024 0
-  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777871244.17057 40565 2a4179a118aee77cf947199728dcac0e ""
+["pdflatex"] 1777871717.98041 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777871719.55753 0
+  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777871717.80525 40554 44ce55a04b99797b4d79ecd71c68a518 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -131,12 +131,12 @@
   "images/philbert/fig-p2-lax-apm.png" 1777854160.74936 166933 54ea6c147ae1e32d138fb15d5acab7d5 ""
   "images/philbert/fig-p3-cahsr.png" 1777854177.49214 198844 f33080b0d2214903d7999ac8038eb22b ""
   "images/philbert/funding_flow_v1.png" 1777862491.58085 98742 5ef5e3469657a08144f254e49ed59fcc ""
-  "main.aux" 1777871247.5356 7648 909e1eb35fb9fdcac6d613f397605d70 "pdflatex"
+  "main.aux" 1777871719.49833 7648 909e1eb35fb9fdcac6d613f397605d70 "pdflatex"
   "main.bbl" 1777871245.95571 13953 f2ba38598017917a427fb008ebcf0f98 "bibtex main"
-  "main.lof" 1777871247.53647 1150 39ac69017c2c9ae00e76554817290531 "pdflatex"
-  "main.out" 1777871247.53629 3929 0f822de28a3af8d5f190bae3368bb131 "pdflatex"
-  "main.tex" 1777871244.17057 40565 2a4179a118aee77cf947199728dcac0e ""
-  "main.toc" 1777871247.53645 1946 7f6b4e11c47bb1db0a8317d6dd31a8ca "pdflatex"
+  "main.lof" 1777871719.49948 1150 39ac69017c2c9ae00e76554817290531 "pdflatex"
+  "main.out" 1777871719.49924 3929 0f822de28a3af8d5f190bae3368bb131 "pdflatex"
+  "main.tex" 1777871717.80525 40554 44ce55a04b99797b4d79ecd71c68a518 ""
+  "main.toc" 1777871719.49945 1946 7f6b4e11c47bb1db0a8317d6dd31a8ca "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
