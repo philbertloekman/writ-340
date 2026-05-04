@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  3 MAY 2026 21:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  3 MAY 2026 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -550,12 +550,12 @@ Package hyperref Info: Link coloring OFF on input line 61.
 
 LaTeX Warning: Citation `IEEEexample:BSTcontrol' undefined on input line 62.
 
-<images/TheSeal_Reg_0921.png, id=84, 50.57382pt x 51.93932pt>
+<images/TheSeal_Reg_0921.png, id=80, 50.57382pt x 51.93932pt>
 File: images/TheSeal_Reg_0921.png Graphic file (type png)
 <use images/TheSeal_Reg_0921.png>
 Package pdftex.def Info: images/TheSeal_Reg_0921.png  used on input line 67.
 (pdftex.def)             Requested size: 187.89914pt x 193.01482pt.
-<images/TheShield.png, id=86, 447.6725pt x 578.16pt>
+<images/TheShield.png, id=82, 447.6725pt x 578.16pt>
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 87.
@@ -602,7 +602,7 @@ File: images/TheShield.png Graphic file (type png)
 Package pdftex.def Info: images/TheShield.png  used on input line 118.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [6]
-<images/philbert/funding_flow_v1.png, id=159, 1365.1pt x 660.4675pt>
+<images/philbert/funding_flow_v1.png, id=158, 1365.1pt x 660.4675pt>
 File: images/philbert/funding_flow_v1.png Graphic file (type png)
 <use images/philbert/funding_flow_v1.png>
 Package pdftex.def Info: images/philbert/funding_flow_v1.png  used on input line 133.
@@ -612,7 +612,7 @@ File: images/TheShield.png Graphic file (type png)
 Package pdftex.def Info: images/TheShield.png  used on input line 137.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [7]
-<images/philbert/fig-p1-dline.png, id=172, 616.266pt x 316.017pt>
+<images/philbert/fig-p1-dline.png, id=171, 616.266pt x 316.017pt>
 File: images/philbert/fig-p1-dline.png Graphic file (type png)
 <use images/philbert/fig-p1-dline.png>
 Package pdftex.def Info: images/philbert/fig-p1-dline.png  used on input line 144.
@@ -622,7 +622,7 @@ File: images/TheShield.png Graphic file (type png)
 Package pdftex.def Info: images/TheShield.png  used on input line 148.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [8 <./images/philbert/funding_flow_v1.png (PNG copy)>]
-<images/philbert/fig-p2-lax-apm.png, id=185, 617.142pt x 316.017pt>
+<images/philbert/fig-p2-lax-apm.png, id=184, 617.142pt x 316.017pt>
 File: images/philbert/fig-p2-lax-apm.png Graphic file (type png)
 <use images/philbert/fig-p2-lax-apm.png>
 Package pdftex.def Info: images/philbert/fig-p2-lax-apm.png  used on input line 155.
@@ -632,7 +632,7 @@ File: images/TheShield.png Graphic file (type png)
 Package pdftex.def Info: images/TheShield.png  used on input line 159.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [9 <./images/philbert/fig-p1-dline.png>]
-<images/philbert/fig-p3-cahsr.png, id=202, 617.142pt x 316.017pt>
+<images/philbert/fig-p3-cahsr.png, id=201, 617.142pt x 316.017pt>
 File: images/philbert/fig-p3-cahsr.png Graphic file (type png)
 <use images/philbert/fig-p3-cahsr.png>
 Package pdftex.def Info: images/philbert/fig-p3-cahsr.png  used on input line 166.
@@ -642,47 +642,77 @@ File: images/TheShield.png Graphic file (type png)
 Package pdftex.def Info: images/TheShield.png  used on input line 170.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [10 <./images/philbert/fig-p2-lax-apm.png>]
+<images/nicole/nicoles-figure-1.png, id=226, 644.4075pt x 257.96375pt>
+File: images/nicole/nicoles-figure-1.png Graphic file (type png)
+<use images/nicole/nicoles-figure-1.png>
+Package pdftex.def Info: images/nicole/nicoles-figure-1.png  used on input line 181.
+(pdftex.def)             Requested size: 469.75502pt x 188.0561pt.
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 177.
+Package pdftex.def Info: images/TheShield.png  used on input line 185.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [11 <./images/philbert/fig-p3-cahsr.png>]
-<images/philbert/cost-cap.png, id=238, 2326.6925pt x 525.965pt>
+File: images/TheShield.png Graphic file (type png)
+<use images/TheShield.png>
+Package pdftex.def Info: images/TheShield.png  used on input line 192.
+(pdftex.def)             Requested size: 19.352pt x 25.0pt.
+ [12 <./images/nicole/nicoles-figure-1.png>]
+File: images/TheShield.png Graphic file (type png)
+<use images/TheShield.png>
+Package pdftex.def Info: images/TheShield.png  used on input line 194.
+(pdftex.def)             Requested size: 19.352pt x 25.0pt.
+ [13]
+<images/philbert/cost-cap.png, id=279, 2326.6925pt x 525.965pt>
 File: images/philbert/cost-cap.png Graphic file (type png)
 <use images/philbert/cost-cap.png>
-Package pdftex.def Info: images/philbert/cost-cap.png  used on input line 194.
+Package pdftex.def Info: images/philbert/cost-cap.png  used on input line 211.
 (pdftex.def)             Requested size: 469.75502pt x 106.1863pt.
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 207.
+Package pdftex.def Info: images/TheShield.png  used on input line 225.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [12 <./images/philbert/cost-cap.png>]
+ [14 <./images/philbert/cost-cap.png>]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 207.
+Package pdftex.def Info: images/TheShield.png  used on input line 232.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [13]
+ [15]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 226.
+Package pdftex.def Info: images/TheShield.png  used on input line 252.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [14]
+ [16]
+<images/nicole/nicoles-figure-2.png, id=311, 550.055pt x 315.1775pt>
+File: images/nicole/nicoles-figure-2.png Graphic file (type png)
+<use images/nicole/nicoles-figure-2.png>
+Package pdftex.def Info: images/nicole/nicoles-figure-2.png  used on input line 255.
+(pdftex.def)             Requested size: 469.75502pt x 269.17657pt.
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 229.
+Package pdftex.def Info: images/TheShield.png  used on input line 264.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [15] (./main.bbl
+ [17 <./images/nicole/nicoles-figure-2.png>]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 72.
+Package pdftex.def Info: images/TheShield.png  used on input line 267.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [16]) 
+ [18] (./main.bbl
+File: images/TheShield.png Graphic file (type png)
+<use images/TheShield.png>
+Package pdftex.def Info: images/TheShield.png  used on input line 73.
+(pdftex.def)             Requested size: 19.352pt x 25.0pt.
+ [19]
+File: images/TheShield.png Graphic file (type png)
+<use images/TheShield.png>
+Package pdftex.def Info: images/TheShield.png  used on input line 132.
+(pdftex.def)             Requested size: 19.352pt x 25.0pt.
+ [20]) 
 AED: lastpage setting LastPage
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 235.
+Package pdftex.def Info: images/TheShield.png  used on input line 271.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[17] (./main.aux)
+[21] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -692,21 +722,21 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8B247D1F7F58B4F5C320EC2E45844938;2566.
+(rerunfilecheck)             Checksum: 4FEA63E6EBAB0C106F1D0F8B6F7D733D;2853.
  ) 
 Here is how much of TeX's memory you used:
- 13728 strings out of 475567
- 218312 string characters out of 5777888
- 1940187 words of memory out of 5000000
- 35602 multiletter control sequences out of 15000+600000
+ 13780 strings out of 475567
+ 219177 string characters out of 5777888
+ 1943187 words of memory out of 5000000
+ 35633 multiletter control sequences out of 15000+600000
  566212 words of font info for 65 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,15n,79p,885b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,16n,79p,1014b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (17 pages, 751409 bytes).
+Output written on main.pdf (21 pages, 893890 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
