@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1777866317.91719 "main.aux" "main.bbl" "main" 1777866319.01482 0
+["bibtex main"] 1777867538.49514 "main.aux" "main.bbl" "main" 1777867539.6156 0
   "./IEEEtran.bst" 1777855523.77059 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "./references.bib" 1777855715.71694 8113 669385a7c6bb9060220a4619e2e512af ""
-  "main.aux" 1777866318.96595 4626 7ee8da3ba0c5b1c357d7dbab7c7e01f0 "pdflatex"
+  "main.aux" 1777867539.56722 4870 92b2b72d7bd369aa08f24577f1cedb42 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777866317.93292 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777866319.01492 0
-  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777866316.54273 17104 55db4c8654407b7b8a2d69d5efa013dc ""
+["pdflatex"] 1777867538.50867 "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" "main.pdf" "main" 1777867539.6157 0
+  "/Users/philbertloekman/Projects/writ-340/05-white-paper/main/main.tex" 1777867537.23185 17685 b73c56280aa788eb4bc982f3b0ba5f57 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -122,16 +122,17 @@
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
   "images/TheSeal_Reg_0921.png" 1777852703.51003 151720 021ba3c5b9c4015eaed14e2b1e61157c ""
   "images/TheShield.png" 1777852703.51079 57716 dae272a9297db603378f44488aa52034 ""
+  "images/philbert/cost-cap.png" 1777867514.9929 124238 7ba8a2fa8bdb49f0be6b62c6368649ea ""
   "images/philbert/fig-p1-dline.png" 1777854141.70491 233445 a6fc93e35a132db12bfae0bc37d12f97 ""
   "images/philbert/fig-p2-lax-apm.png" 1777854160.74936 166933 54ea6c147ae1e32d138fb15d5acab7d5 ""
   "images/philbert/fig-p3-cahsr.png" 1777854177.49214 198844 f33080b0d2214903d7999ac8038eb22b ""
   "images/philbert/funding_flow_v1.png" 1777862491.58085 98742 5ef5e3469657a08144f254e49ed59fcc ""
-  "main.aux" 1777866318.96595 4626 7ee8da3ba0c5b1c357d7dbab7c7e01f0 "pdflatex"
-  "main.bbl" 1777866317.93129 6773 3211e8542a0eb4ac1354b22cde372613 "bibtex main"
-  "main.lof" 1777866318.96666 494 881dd8967223bd907997466cf8c729e9 "pdflatex"
-  "main.out" 1777866318.96651 2566 8b247d1f7f58b4f5c320ec2e45844938 "pdflatex"
-  "main.tex" 1777866316.54273 17104 55db4c8654407b7b8a2d69d5efa013dc ""
-  "main.toc" 1777866318.96664 1574 9df662838fdcbaec333db3842c9c9923 "pdflatex"
+  "main.aux" 1777867539.56722 4870 92b2b72d7bd369aa08f24577f1cedb42 "pdflatex"
+  "main.bbl" 1777867538.50711 6773 3211e8542a0eb4ac1354b22cde372613 "bibtex main"
+  "main.lof" 1777867539.56824 606 b8dbe5d4fccb8a61a89252151a4833ce "pdflatex"
+  "main.out" 1777867539.56802 2566 8b247d1f7f58b4f5c320ec2e45844938 "pdflatex"
+  "main.tex" 1777867537.23185 17685 b73c56280aa788eb4bc982f3b0ba5f57 ""
+  "main.toc" 1777867539.56821 1574 11335039b748e956e235a82a3274386f "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
