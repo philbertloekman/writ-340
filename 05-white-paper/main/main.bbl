@@ -20,6 +20,26 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{j1}
+\BIBentryALTinterwordspacing
+D.~Newton, ``A visual representation of {L.A.'s} rail growth under {Measure M},'' Streetsblog Los Angeles, August 2016, accessed: Apr. 27, 2026. [Online]. Available: \url{https://la.streetsblog.org/2016/08/29/a-visual-representation-of-l-a-s-rail-growth-under-measure-m}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j2}
+\BIBentryALTinterwordspacing
+E.~Elkind, ``Measure {M} won't fix {L.A.'s} transit problems if we waste the money,'' Los Angeles Times, March 2017, accessed: May 3, 2026. [Online]. Available: \url{https://www.latimes.com/opinion/livable-city/la-ol-metro-elkind-measure-m-transit-waste-20170317-story.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j3}
+\BIBentryALTinterwordspacing
+{KTLA}, ``California high-speed rail announces accelerated timeline for milestone work,'' KTLA 5 News, August 2025, accessed: May 3, 2026. [Online]. Available: \url{https://ktla.com/news/california/california-high-speed-rail-announces-accelerated-timeline-for-milestone-work/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{j4}
+\BIBentryALTinterwordspacing
+{ABC7 Los Angeles}, ``{LAX} people mover's budget increases \$400 million amid ongoing delays,'' ABC7, July 2024, accessed: May 3, 2026. [Online]. Available: \url{https://abc7.com/post/lax-people-movers-budget-increases-400-million-amid/15071618/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{j5}
 \BIBentryALTinterwordspacing
 {Los Angeles County Metropolitan Transportation Authority}, ``Fiscal year 2026 proposed budget book,'' April 2025, accessed: May 3, 2026. [Online]. Available: \url{https://www.railwayage.com/wp-content/uploads/2025/05/Fiscal-Year-2026-Proposed-Budget-Book.pdf}
