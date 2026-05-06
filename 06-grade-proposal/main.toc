@@ -41,12 +41,10 @@
 \contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{45}{subsubsection.3.5.3}%
 \contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{56}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{56}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits Sources}{57}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Videos \& Articles}{57}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}Timeboxing Calendar}{57}{subsubsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{58}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{58}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{59}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{60}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{60}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{60}{subsubsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits}{57}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{59}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{59}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{60}{subsubsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{61}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{61}{subsubsection.3.9.1}%
+\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{61}{subsubsection.3.9.2}%

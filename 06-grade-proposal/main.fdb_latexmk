@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1778101925.18814 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" "main.pdf" "main" 1778101926.32226 0
-  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" 1778101924.94943 59335 b5a034c8273a50fac5430dac0b7e7cad ""
+["pdflatex"] 1778102355.03208 "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" "main.pdf" "main" 1778102356.74785 0
+  "/Users/philbertloekman/Projects/writ-340/06-grade-proposal/main.tex" 1778102353.0192 59439 7046da236abe72f16472895cf5ba88a9 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -211,13 +211,17 @@
   "images/pralumex-website/compressed/old/3.jpg" 1777969643.60414 11484 fd4066891d5e01ed9bb1dfd79dbb683e ""
   "images/pralumex-website/compressed/old/4.jpg" 1777969643.65511 17832 231b868cbca547f145922eacb9c808af ""
   "images/pralumex-website/compressed/old/5.jpg" 1777969643.70856 10623 2e0d507d6f69e581dca53dbbe7a004ab ""
+  "images/time-management/1.png" 1778102016.24203 315719 5d783ed9e71d4858225eb879800aaced ""
+  "images/time-management/2.png" 1778102025.41059 277486 ede609c916853e2f09f2cb546053b9f2 ""
+  "images/time-management/3.png" 1778102032.87172 541817 859724b937c8a64e4f5aa125081e495f ""
+  "images/time-management/4.png" 1778102040.60133 577010 448a0c03d57ba6c1560f9010b1da39c9 ""
   "images/work-revisions/incident-report.png" 1777158966.96935 54495 9cf5da5161c231147e0396f61ddd7d8e ""
   "images/work-revisions/sioet.png" 1777158941.88622 62816 dc946714568b39ff0b1efe05e2700fe0 ""
   "images/work-revisions/technical-description.png" 1777158900.77152 43312 f59153fe909bf68683be91d90b402984 ""
-  "main.aux" 1778101926.2443 8933 b3dc251c59fa73a372b1dd83b8c506ee "pdflatex"
-  "main.out" 1778101926.24534 10628 b9c85fc0bb0ffc5bcbad1e2cfb256090 "pdflatex"
-  "main.tex" 1778101924.94943 59335 b5a034c8273a50fac5430dac0b7e7cad ""
-  "main.toc" 1778101926.24558 5211 6ce4fd5d0e5a4f385b08fec325133fe4 "pdflatex"
+  "main.aux" 1778102356.68334 8681 a26e6481309477de4876367891387c13 "pdflatex"
+  "main.out" 1778102356.68417 10257 1b0992a6236365295b3d2814a1e5104b "pdflatex"
+  "main.tex" 1778102353.0192 59439 7046da236abe72f16472895cf5ba88a9 ""
+  "main.toc" 1778102356.68439 5012 edf267d3a2de91f1074fdc5f12777fee "pdflatex"
   (generated)
   "main.aux"
   "main.log"
