@@ -23,29 +23,30 @@
 \contentsline {subsubsection}{\numberline {3.1.2}Deliverable 2}{18}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Deliverable 3}{20}{subsubsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.4}Deliverable 4}{24}{subsubsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.2}Appendix B: Reading List \& Sources}{26}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Books}{26}{subsubsection.3.2.1}%
-\contentsline {paragraph}{\textit {How to Lie with Statistics} by Darrell Huff}{26}{section*.19}%
-\contentsline {paragraph}{\textit {The Anxious Generation} by Jonathan Haidt}{26}{section*.21}%
-\contentsline {subsection}{\numberline {3.3}Appendix C: Micro Revisions of Work}{27}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Technical Description}{27}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Social Impact of Emerging Technology (SIoET)}{27}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Incident Report}{28}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Appendix D: AI Coding Tool Videos \& Sources}{29}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Claude Code}{29}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Cursor}{29}{subsubsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.5}Appendix E: Pralumex Website Screenshots}{30}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}E.1 --- Original Site (\href {https://old.pralumex.com}{old.pralumex.com})}{31}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}E.2 --- Current Site (\href {https://pralumex.com}{pralumex.com})}{34}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{42}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{53}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{53}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits Sources}{54}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Videos \& Articles}{54}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}Timeboxing Calendar}{54}{subsubsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{55}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{55}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{56}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{57}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{57}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{57}{subsubsection.3.9.2}%
+\contentsline {subsubsection}{\numberline {3.1.5}Deliverable 7}{26}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Appendix B: Reading List \& Sources}{29}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Books}{29}{subsubsection.3.2.1}%
+\contentsline {paragraph}{\textit {How to Lie with Statistics} by Darrell Huff}{29}{section*.22}%
+\contentsline {paragraph}{\textit {The Anxious Generation} by Jonathan Haidt}{29}{section*.24}%
+\contentsline {subsection}{\numberline {3.3}Appendix C: Micro Revisions of Work}{30}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Technical Description}{30}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Social Impact of Emerging Technology (SIoET)}{30}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Incident Report}{31}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Appendix D: AI Coding Tool Videos \& Sources}{32}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Claude Code}{32}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Cursor}{32}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Appendix E: Pralumex Website Screenshots}{33}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}E.1 --- Original Site (\href {https://old.pralumex.com}{old.pralumex.com})}{34}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}E.2 --- Current Site (\href {https://pralumex.com}{pralumex.com})}{37}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{45}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{56}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{56}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits Sources}{57}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Videos \& Articles}{57}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Timeboxing Calendar}{57}{subsubsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{58}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{58}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{59}{subsubsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{60}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{60}{subsubsection.3.9.1}%
+\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{60}{subsubsection.3.9.2}%
