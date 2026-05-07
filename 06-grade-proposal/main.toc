@@ -26,25 +26,20 @@
 \contentsline {subsubsection}{\numberline {3.1.5}Deliverable 7}{28}{subsubsection.3.1.5}%
 \contentsline {subsection}{\numberline {3.2}Appendix B: Reading List \& Sources}{31}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Books}{31}{subsubsection.3.2.1}%
-\contentsline {paragraph}{\textit {How to Lie with Statistics} by Darrell Huff}{31}{section*.30}%
-\contentsline {paragraph}{\textit {The Anxious Generation} by Jonathan Haidt}{31}{section*.32}%
-\contentsline {subsection}{\numberline {3.3}Appendix C: Micro Revisions of Work}{33}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Technical Description}{33}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Social Impact of Emerging Technology (SIoET)}{33}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Incident Report}{34}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Appendix D: AI Coding Tool Videos \& Sources}{36}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Claude Code}{36}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Cursor}{36}{subsubsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.5}Appendix E: Pralumex Website Screenshots}{37}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}E.1 --- Original Site (\href {https://old.pralumex.com}{old.pralumex.com})}{38}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}E.2 --- Current Site (\href {https://pralumex.com}{pralumex.com})}{41}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{49}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{60}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{60}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits}{61}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{64}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{64}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{65}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{66}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{66}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{66}{subsubsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.3}Appendix C: Micro Revisions of Work}{32}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Appendix D: AI Coding Tool Videos \& Sources}{34}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Claude Code}{34}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Cursor}{34}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Appendix E: Pralumex Website Screenshots}{35}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}E.1 --- Original Site (\href {https://old.pralumex.com}{old.pralumex.com})}{36}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}E.2 --- Current Site (\href {https://pralumex.com}{pralumex.com})}{39}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}E.3 --- Beta Site (\href {https://beta.pralumex.com}{beta.pralumex.com})}{47}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{58}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{58}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits}{59}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{62}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{62}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{63}{subsubsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{64}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{64}{subsubsection.3.9.1}%
+\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{64}{subsubsection.3.9.2}%
