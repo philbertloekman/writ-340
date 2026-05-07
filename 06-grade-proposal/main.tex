@@ -30,6 +30,10 @@
 \usepackage{float}
 \usepackage{longtable}
 \usepackage[breaklinks]{hyperref}
+\usepackage[normalem]{ulem}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue}
+\let\oldhyperref\hyperref
+\renewcommand{\hyperref}[2][]{\oldhyperref[#1]{\textit{\uline{#2}}}}
 
 \setlength{\headheight}{14.5pt}
 \addtolength{\topmargin}{-2.5pt}
@@ -51,7 +55,7 @@
 \fancyhead[r]{Spring 2026}
 
 \fancyfoot[l]{\raisebox{-0.3\height}{\includegraphics[height=25pt]{images/TheShield.png}}}
-\fancyfoot[c]{Page {\thepage} of {\pageref{LastPage}}}
+\fancyfoot[c]{Page {\thepage} of {\pageref*{LastPage}}}
 \fancyfoot[r]{66837}
 
 \begin{document}

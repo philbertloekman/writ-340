@@ -42,9 +42,9 @@
 \contentsline {subsection}{\numberline {3.6}Appendix F: Frontend Design \& UI/UX Videos \& Sources}{60}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1}React UI Libraries}{60}{subsubsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.7}Appendix G: Time Management \& Productivity Habits}{61}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{63}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{63}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{64}{subsubsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{65}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{65}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{65}{subsubsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.8}Appendix H: Following Software \& Technology Content Sources}{64}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Fireship}{64}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Miscellaneous}{65}{subsubsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.9}Appendix I: Aviation Sources}{66}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Pilot Debrief}{66}{subsubsection.3.9.1}%
+\contentsline {subsubsection}{\numberline {3.9.2}National Transportation Safety Board (NTSB)}{66}{subsubsection.3.9.2}%
