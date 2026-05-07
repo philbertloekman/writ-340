@@ -285,6 +285,10 @@ INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
 INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
+INPUT ./images/TheShield.png
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2024basic/texmf-dist/fonts/tfm/public/cm/cmex10.tfm

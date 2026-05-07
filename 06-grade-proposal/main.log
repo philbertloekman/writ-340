@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  6 MAY 2026 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  6 MAY 2026 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,30 +632,35 @@ Package pdftex.def Info: images/TheShield.png  used on input line 250.
  [13]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 265.
+Package pdftex.def Info: images/TheShield.png  used on input line 260.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [14]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
-Package pdftex.def Info: images/TheShield.png  used on input line 268.
+Package pdftex.def Info: images/TheShield.png  used on input line 265.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
  [15]
-<images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg, id=390, 602.25pt x 778.91pt>
+File: images/TheShield.png Graphic file (type png)
+<use images/TheShield.png>
+Package pdftex.def Info: images/TheShield.png  used on input line 268.
+(pdftex.def)             Requested size: 19.352pt x 25.0pt.
+ [16]
+<images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg, id=395, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg  used on input line 276.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg, id=391, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg, id=396, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg  used on input line 277.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg, id=392, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg, id=397, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg  used on input line 278.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg, id=393, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg, id=398, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg  used on input line 279.
@@ -664,23 +669,23 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 280.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [16 <./images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg>]
-<images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg, id=401, 602.25pt x 778.91pt>
+ [17 <./images/deliverables/compressed/deliverable-1/Deliverable 1_1.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_2.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_3.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_4.jpg>]
+<images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg, id=406, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg  used on input line 284.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg, id=402, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg, id=407, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg  used on input line 285.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg, id=403, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg, id=408, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg  used on input line 286.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg, id=404, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg, id=409, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg  used on input line 287.
@@ -689,25 +694,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 288.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [17
+ [18
 
  <./images/deliverables/compressed/deliverable-1/Deliverable 1_5.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_6.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_7.jpg> <./images/deliverables/compressed/deliverable-1/Deliverable 1_8.jpg>]
-<images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg, id=411, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg, id=416, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg  used on input line 294.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg, id=412, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg, id=417, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg  used on input line 295.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg, id=413, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg, id=418, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg  used on input line 296.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg, id=414, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg, id=419, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg  used on input line 297.
@@ -716,20 +721,20 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 298.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [18
+ [19
 
  <./images/deliverables/compressed/deliverable-2/Deliverable 2_1.jpg> <./images/deliverables/compressed/deliverable-2/Deliverable 2_2.jpg> <./images/deliverables/compressed/deliverable-2/Deliverable 2_3.jpg> <./images/deliverables/compressed/deliverable-2/Deliverable 2_4.jpg>]
-<images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg, id=421, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg, id=427, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg  used on input line 302.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg, id=422, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg, id=428, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg  used on input line 303.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg, id=423, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg, id=429, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg  used on input line 304.
@@ -738,25 +743,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 305.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [19
+ [20
 
  <./images/deliverables/compressed/deliverable-2/Deliverable 2_5.jpg> <./images/deliverables/compressed/deliverable-2/Deliverable 2_6.jpg> <./images/deliverables/compressed/deliverable-2/Deliverable 2_7.jpg>]
-<images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg, id=431, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg, id=436, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg  used on input line 311.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg, id=432, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg, id=437, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg  used on input line 312.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg, id=433, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg, id=438, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg  used on input line 313.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg, id=434, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg, id=439, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg  used on input line 314.
@@ -765,25 +770,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 315.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [20
+ [21
 
  <./images/deliverables/compressed/deliverable-3/Deliverable 3_1.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_2.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_3.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_4.jpg>]
-<images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg, id=441, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg, id=446, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg  used on input line 319.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg, id=442, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg, id=447, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg  used on input line 320.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg, id=443, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg, id=448, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg  used on input line 321.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg, id=444, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg, id=449, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg  used on input line 322.
@@ -792,25 +797,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 323.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [21
+ [22
 
  <./images/deliverables/compressed/deliverable-3/Deliverable 3_5.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_6.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_7.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_8.jpg>]
-<images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg, id=451, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg, id=457, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg  used on input line 327.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg, id=452, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg, id=458, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg  used on input line 328.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg, id=453, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg, id=459, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg  used on input line 329.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg, id=454, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg, id=460, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg  used on input line 330.
@@ -819,10 +824,10 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 331.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [22
+ [23
 
  <./images/deliverables/compressed/deliverable-3/Deliverable 3_9.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_10.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_11.jpg> <./images/deliverables/compressed/deliverable-3/Deliverable 3_12.jpg>]
-<images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg, id=462, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg, id=467, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg  used on input line 335.
@@ -831,25 +836,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 336.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [23
+ [24
 
  <./images/deliverables/compressed/deliverable-3/Deliverable 3_13.jpg>]
-<images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg, id=469, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg, id=474, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg  used on input line 342.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg, id=470, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg, id=475, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg  used on input line 343.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg, id=471, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg, id=476, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg  used on input line 344.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg, id=472, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg, id=477, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg  used on input line 345.
@@ -858,25 +863,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 346.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [24
+ [25
 
  <./images/deliverables/compressed/deliverable-4/Deliverable 4_1.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_2.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_3.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_4.jpg>]
-<images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg, id=479, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg, id=485, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg  used on input line 350.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg, id=480, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg, id=486, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg  used on input line 351.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg, id=481, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg, id=487, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg  used on input line 352.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg, id=482, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg, id=488, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg  used on input line 353.
@@ -885,25 +890,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 354.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [25
+ [26
 
  <./images/deliverables/compressed/deliverable-4/Deliverable 4_5.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_6.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_7.jpg> <./images/deliverables/compressed/deliverable-4/Deliverable 4_8.jpg>]
-<images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg, id=490, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg, id=495, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg  used on input line 360.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg, id=491, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg, id=496, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg  used on input line 361.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg, id=492, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg, id=497, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg  used on input line 362.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg, id=493, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg, id=498, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg  used on input line 363.
@@ -912,25 +917,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 364.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [26
+ [27
 
  <./images/deliverables/compressed/deliverable-7/Deliverable 7_1.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_2.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_3.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_4.jpg>]
-<images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg, id=500, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg, id=505, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg  used on input line 368.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg, id=501, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg, id=506, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg  used on input line 369.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg, id=502, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg, id=507, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg  used on input line 370.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg, id=503, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg, id=508, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg  used on input line 371.
@@ -939,25 +944,25 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 372.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [27
+ [28
 
  <./images/deliverables/compressed/deliverable-7/Deliverable 7_5.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_6.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_7.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_8.jpg>]
-<images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg, id=510, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg, id=515, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg  used on input line 376.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg, id=511, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg, id=516, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg  used on input line 377.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg, id=512, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg, id=517, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg  used on input line 378.
 (pdftex.def)             Requested size: 206.6921pt x 267.3218pt.
-<images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg, id=513, 602.25pt x 778.91pt>
+<images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg, id=518, 602.25pt x 778.91pt>
 File: images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg Graphic file (type jpg)
 <use images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg>
 Package pdftex.def Info: images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg  used on input line 379.
@@ -966,15 +971,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 380.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [28
+ [29
 
  <./images/deliverables/compressed/deliverable-7/Deliverable 7_9.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_10.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_11.jpg> <./images/deliverables/compressed/deliverable-7/Deliverable 7_12.jpg>]
-<images/books/how to lie with statistics.jpeg, id=520, 1376.0208pt x 1032.0156pt>
+<images/books/how to lie with statistics.jpeg, id=525, 1376.0208pt x 1032.0156pt>
 File: images/books/how to lie with statistics.jpeg Graphic file (type jpg)
 <use images/books/how to lie with statistics.jpeg>
 Package pdftex.def Info: images/books/how to lie with statistics.jpeg  used on input line 391.
 (pdftex.def)             Requested size: 234.8775pt x 176.14896pt.
-<images/books/the anxious generation.jpeg, id=521, 1376.0208pt x 1032.0156pt>
+<images/books/the anxious generation.jpeg, id=526, 1376.0208pt x 1032.0156pt>
 File: images/books/the anxious generation.jpeg Graphic file (type jpg)
 <use images/books/the anxious generation.jpeg>
 Package pdftex.def Info: images/books/the anxious generation.jpeg  used on input line 397.
@@ -983,20 +988,20 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 400.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [29
+ [30
 
  <./images/books/how to lie with statistics.jpeg> <./images/books/the anxious generation.jpeg>]
-<images/work-revisions/technical-description.png, id=531, 265.99374pt x 300.12125pt>
+<images/work-revisions/technical-description.png, id=536, 265.99374pt x 300.12125pt>
 File: images/work-revisions/technical-description.png Graphic file (type png)
 <use images/work-revisions/technical-description.png>
 Package pdftex.def Info: images/work-revisions/technical-description.png  used on input line 409.
 (pdftex.def)             Requested size: 187.89914pt x 212.0114pt.
-<images/work-revisions/sioet.png, id=533, 269.005pt x 395.4775pt>
+<images/work-revisions/sioet.png, id=538, 269.005pt x 395.4775pt>
 File: images/work-revisions/sioet.png Graphic file (type png)
 <use images/work-revisions/sioet.png>
 Package pdftex.def Info: images/work-revisions/sioet.png  used on input line 417.
 (pdftex.def)             Requested size: 187.89914pt x 276.24098pt.
-<images/work-revisions/incident-report.png, id=535, 270.00874pt x 427.5975pt>
+<images/work-revisions/incident-report.png, id=540, 270.00874pt x 427.5975pt>
 File: images/work-revisions/incident-report.png Graphic file (type png)
 <use images/work-revisions/incident-report.png>
 Package pdftex.def Info: images/work-revisions/incident-report.png  used on input line 425.
@@ -1005,12 +1010,12 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 426.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [30 <./images/work-revisions/technical-description.png> <./images/work-revisions/sioet.png>]
+ [31 <./images/work-revisions/technical-description.png> <./images/work-revisions/sioet.png>]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 428.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [31 <./images/work-revisions/incident-report.png>]
+ [32 <./images/work-revisions/incident-report.png>]
 Overfull \hbox (1.03586pt too wide) in paragraph at lines 439--439
 []|\OT1/cmr/m/n/12 Document| 
  []
@@ -1019,18 +1024,18 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 458.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[32]
+[33]
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 463.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [33]
-<images/pralumex-website/compressed/old/1.jpg, id=575, 602.25pt x 450.68375pt>
+ [34]
+<images/pralumex-website/compressed/old/1.jpg, id=580, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/old/1.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/old/1.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/old/1.jpg  used on input line 469.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/old/2.jpg, id=576, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/old/2.jpg, id=581, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/old/2.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/old/2.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/old/2.jpg  used on input line 470.
@@ -1039,13 +1044,13 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 471.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [34 <./images/pralumex-website/compressed/old/1.jpg> <./images/pralumex-website/compressed/old/2.jpg>]
-<images/pralumex-website/compressed/old/3.jpg, id=583, 602.25pt x 450.68375pt>
+ [35 <./images/pralumex-website/compressed/old/1.jpg> <./images/pralumex-website/compressed/old/2.jpg>]
+<images/pralumex-website/compressed/old/3.jpg, id=589, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/old/3.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/old/3.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/old/3.jpg  used on input line 473.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/old/4.jpg, id=584, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/old/4.jpg, id=590, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/old/4.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/old/4.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/old/4.jpg  used on input line 474.
@@ -1054,10 +1059,10 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 475.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [35
+ [36
 
  <./images/pralumex-website/compressed/old/3.jpg> <./images/pralumex-website/compressed/old/4.jpg>]
-<images/pralumex-website/compressed/old/5.jpg, id=592, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/old/5.jpg, id=597, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/old/5.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/old/5.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/old/5.jpg  used on input line 477.
@@ -1066,15 +1071,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 478.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [36
+ [37
 
  <./images/pralumex-website/compressed/old/5.jpg>]
-<images/pralumex-website/compressed/current/1.jpg, id=600, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/1.jpg, id=606, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/1.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/1.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/1.jpg  used on input line 485.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/2.jpg, id=601, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/2.jpg, id=607, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/2.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/2.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/2.jpg  used on input line 486.
@@ -1083,15 +1088,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 487.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [37
+ [38
 
  <./images/pralumex-website/compressed/current/1.jpg> <./images/pralumex-website/compressed/current/2.jpg>]
-<images/pralumex-website/compressed/current/3.jpg, id=609, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/3.jpg, id=614, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/3.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/3.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/3.jpg  used on input line 489.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/4.jpg, id=610, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/4.jpg, id=615, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/4.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/4.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/4.jpg  used on input line 490.
@@ -1100,15 +1105,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 491.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [38
+ [39
 
  <./images/pralumex-website/compressed/current/3.jpg> <./images/pralumex-website/compressed/current/4.jpg>]
-<images/pralumex-website/compressed/current/5.jpg, id=617, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/5.jpg, id=622, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/5.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/5.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/5.jpg  used on input line 493.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/6.jpg, id=618, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/6.jpg, id=623, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/6.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/6.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/6.jpg  used on input line 494.
@@ -1117,15 +1122,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 495.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [39
+ [40
 
  <./images/pralumex-website/compressed/current/5.jpg> <./images/pralumex-website/compressed/current/6.jpg>]
-<images/pralumex-website/compressed/current/7.jpg, id=625, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/7.jpg, id=630, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/7.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/7.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/7.jpg  used on input line 497.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/8.jpg, id=626, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/8.jpg, id=631, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/8.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/8.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/8.jpg  used on input line 498.
@@ -1134,15 +1139,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 499.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [40
+ [41
 
  <./images/pralumex-website/compressed/current/7.jpg> <./images/pralumex-website/compressed/current/8.jpg>]
-<images/pralumex-website/compressed/current/9.jpg, id=633, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/9.jpg, id=638, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/9.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/9.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/9.jpg  used on input line 501.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/10.jpg, id=634, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/10.jpg, id=639, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/10.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/10.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/10.jpg  used on input line 502.
@@ -1151,15 +1156,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 503.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [41
+ [42
 
  <./images/pralumex-website/compressed/current/9.jpg> <./images/pralumex-website/compressed/current/10.jpg>]
-<images/pralumex-website/compressed/current/11.jpg, id=641, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/11.jpg, id=646, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/11.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/11.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/11.jpg  used on input line 505.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/12.jpg, id=642, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/12.jpg, id=647, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/12.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/12.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/12.jpg  used on input line 506.
@@ -1168,15 +1173,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 507.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [42
+ [43
 
  <./images/pralumex-website/compressed/current/11.jpg> <./images/pralumex-website/compressed/current/12.jpg>]
-<images/pralumex-website/compressed/current/13.jpg, id=649, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/13.jpg, id=655, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/13.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/13.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/13.jpg  used on input line 509.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/current/14.jpg, id=650, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/14.jpg, id=656, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/14.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/14.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/14.jpg  used on input line 510.
@@ -1185,10 +1190,10 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 511.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [43
+ [44
 
  <./images/pralumex-website/compressed/current/13.jpg> <./images/pralumex-website/compressed/current/14.jpg>]
-<images/pralumex-website/compressed/current/15.jpg, id=658, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/current/15.jpg, id=663, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/current/15.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/current/15.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/current/15.jpg  used on input line 513.
@@ -1197,15 +1202,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 514.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [44
+ [45
 
  <./images/pralumex-website/compressed/current/15.jpg>]
-<images/pralumex-website/compressed/beta/1.jpg, id=666, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/1.jpg, id=671, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/1.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/1.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/1.jpg  used on input line 521.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/2.jpg, id=667, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/2.jpg, id=672, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/2.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/2.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/2.jpg  used on input line 522.
@@ -1214,15 +1219,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 523.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [45
+ [46
 
  <./images/pralumex-website/compressed/beta/1.jpg> <./images/pralumex-website/compressed/beta/2.jpg>]
-<images/pralumex-website/compressed/beta/3.jpg, id=674, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/3.jpg, id=679, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/3.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/3.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/3.jpg  used on input line 525.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/4.jpg, id=675, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/4.jpg, id=680, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/4.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/4.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/4.jpg  used on input line 526.
@@ -1231,15 +1236,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 527.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [46
+ [47
 
  <./images/pralumex-website/compressed/beta/3.jpg> <./images/pralumex-website/compressed/beta/4.jpg>]
-<images/pralumex-website/compressed/beta/5.jpg, id=682, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/5.jpg, id=687, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/5.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/5.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/5.jpg  used on input line 529.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/6.jpg, id=683, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/6.jpg, id=688, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/6.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/6.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/6.jpg  used on input line 530.
@@ -1248,15 +1253,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 531.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [47
+ [48
 
  <./images/pralumex-website/compressed/beta/5.jpg> <./images/pralumex-website/compressed/beta/6.jpg>]
-<images/pralumex-website/compressed/beta/7.jpg, id=690, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/7.jpg, id=695, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/7.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/7.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/7.jpg  used on input line 533.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/8.jpg, id=691, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/8.jpg, id=696, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/8.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/8.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/8.jpg  used on input line 534.
@@ -1265,15 +1270,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 535.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [48
+ [49
 
  <./images/pralumex-website/compressed/beta/7.jpg> <./images/pralumex-website/compressed/beta/8.jpg>]
-<images/pralumex-website/compressed/beta/9.jpg, id=698, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/9.jpg, id=704, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/9.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/9.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/9.jpg  used on input line 537.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/10.jpg, id=699, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/10.jpg, id=705, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/10.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/10.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/10.jpg  used on input line 538.
@@ -1282,15 +1287,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 539.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [49
+ [50
 
  <./images/pralumex-website/compressed/beta/9.jpg> <./images/pralumex-website/compressed/beta/10.jpg>]
-<images/pralumex-website/compressed/beta/11.jpg, id=707, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/11.jpg, id=712, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/11.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/11.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/11.jpg  used on input line 541.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/12.jpg, id=708, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/12.jpg, id=713, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/12.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/12.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/12.jpg  used on input line 542.
@@ -1299,15 +1304,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 543.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [50
+ [51
 
  <./images/pralumex-website/compressed/beta/11.jpg> <./images/pralumex-website/compressed/beta/12.jpg>]
-<images/pralumex-website/compressed/beta/13.jpg, id=715, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/13.jpg, id=720, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/13.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/13.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/13.jpg  used on input line 545.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/14.jpg, id=716, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/14.jpg, id=721, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/14.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/14.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/14.jpg  used on input line 546.
@@ -1316,15 +1321,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 547.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [51
+ [52
 
  <./images/pralumex-website/compressed/beta/13.jpg> <./images/pralumex-website/compressed/beta/14.jpg>]
-<images/pralumex-website/compressed/beta/15.jpg, id=723, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/15.jpg, id=728, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/15.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/15.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/15.jpg  used on input line 549.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/16.jpg, id=724, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/16.jpg, id=729, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/16.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/16.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/16.jpg  used on input line 550.
@@ -1333,15 +1338,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 551.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [52
+ [53
 
  <./images/pralumex-website/compressed/beta/15.jpg> <./images/pralumex-website/compressed/beta/16.jpg>]
-<images/pralumex-website/compressed/beta/17.jpg, id=731, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/17.jpg, id=736, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/17.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/17.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/17.jpg  used on input line 553.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/18.jpg, id=732, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/18.jpg, id=737, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/18.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/18.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/18.jpg  used on input line 554.
@@ -1350,15 +1355,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 555.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [53
+ [54
 
  <./images/pralumex-website/compressed/beta/17.jpg> <./images/pralumex-website/compressed/beta/18.jpg>]
-<images/pralumex-website/compressed/beta/19.jpg, id=739, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/19.jpg, id=745, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/19.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/19.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/19.jpg  used on input line 557.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/20.jpg, id=740, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/20.jpg, id=746, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/20.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/20.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/20.jpg  used on input line 558.
@@ -1367,15 +1372,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 559.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [54
+ [55
 
  <./images/pralumex-website/compressed/beta/19.jpg> <./images/pralumex-website/compressed/beta/20.jpg>]
-<images/pralumex-website/compressed/beta/21.jpg, id=748, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/21.jpg, id=754, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/21.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/21.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/21.jpg  used on input line 561.
 (pdftex.def)             Requested size: 399.84795pt x 299.21954pt.
-<images/pralumex-website/compressed/beta/22.jpg, id=749, 602.25pt x 450.68375pt>
+<images/pralumex-website/compressed/beta/22.jpg, id=755, 602.25pt x 450.68375pt>
 File: images/pralumex-website/compressed/beta/22.jpg Graphic file (type jpg)
 <use images/pralumex-website/compressed/beta/22.jpg>
 Package pdftex.def Info: images/pralumex-website/compressed/beta/22.jpg  used on input line 562.
@@ -1384,7 +1389,7 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 563.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [55
+ [56
 
  <./images/pralumex-website/compressed/beta/21.jpg> <./images/pralumex-website/compressed/beta/22.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 578--578
@@ -1395,15 +1400,15 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 584.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[56
+[57
 
 ]
-<images/time-management/1.png, id=768, 731.73375pt x 894.34125pt>
+<images/time-management/1.png, id=773, 731.73375pt x 894.34125pt>
 File: images/time-management/1.png Graphic file (type png)
 <use images/time-management/1.png>
 Package pdftex.def Info: images/time-management/1.png  used on input line 589.
 (pdftex.def)             Requested size: 244.80016pt x 299.2002pt.
-<images/time-management/2.png, id=769, 731.73375pt x 894.34125pt>
+<images/time-management/2.png, id=774, 731.73375pt x 894.34125pt>
 File: images/time-management/2.png Graphic file (type png)
 <use images/time-management/2.png>
 Package pdftex.def Info: images/time-management/2.png  used on input line 590.
@@ -1412,13 +1417,13 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 591.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [57 <./images/time-management/1.png> <./images/time-management/2.png>]
-<images/time-management/3.png, id=778, 1642.135pt x 904.37875pt>
+ [58 <./images/time-management/1.png> <./images/time-management/2.png>]
+<images/time-management/3.png, id=783, 1642.135pt x 904.37875pt>
 File: images/time-management/3.png Graphic file (type png)
 <use images/time-management/3.png>
 Package pdftex.def Info: images/time-management/3.png  used on input line 593.
 (pdftex.def)             Requested size: 469.74226pt x 258.7028pt.
-<images/time-management/4.png, id=779, 1654.18pt x 905.3825pt>
+<images/time-management/4.png, id=784, 1654.18pt x 905.3825pt>
 File: images/time-management/4.png Graphic file (type png)
 <use images/time-management/4.png>
 Package pdftex.def Info: images/time-management/4.png  used on input line 594.
@@ -1427,7 +1432,7 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 595.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
- [58
+ [59
 
  <./images/time-management/3.png> <./images/time-management/4.png>]
 Overfull \hbox (9.15102pt too wide) in paragraph at lines 599--599
@@ -1458,7 +1463,7 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 639.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[59
+[60
 
 ]
 Underfull \hbox (badness 1325) in paragraph at lines 649--649
@@ -1469,13 +1474,13 @@ File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 653.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[60] 
+[61] 
 AED: lastpage setting LastPage
 File: images/TheShield.png Graphic file (type png)
 <use images/TheShield.png>
 Package pdftex.def Info: images/TheShield.png  used on input line 686.
 (pdftex.def)             Requested size: 19.352pt x 25.0pt.
-[61] (./main.aux)
+[62] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1484,18 +1489,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 40C31F27736DCD5C191C159FBB8B68F1;10240.
  ) 
 Here is how much of TeX's memory you used:
- 14521 strings out of 475567
- 261289 string characters out of 5777888
+ 14522 strings out of 475567
+ 261296 string characters out of 5777888
  1956187 words of memory out of 5000000
  36283 multiletter control sequences out of 15000+600000
  569112 words of font info for 77 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  75i,16n,79p,1411b,569s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (61 pages, 11133777 bytes).
+Output written on main.pdf (62 pages, 11135468 bytes).
 PDF statistics:
- 950 PDF objects out of 1000 (max. 8388607)
- 753 compressed objects within 8 object streams
- 180 named destinations out of 1000 (max. 500000)
+ 957 PDF objects out of 1000 (max. 8388607)
+ 759 compressed objects within 8 object streams
+ 181 named destinations out of 1000 (max. 500000)
  906 words of extra memory for PDF output out of 10000 (max. 10000000)
 
